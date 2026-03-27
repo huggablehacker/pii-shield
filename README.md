@@ -40,7 +40,7 @@ PII Shield runs entirely on your machine. It detects and replaces Personally Ide
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pii-shield.git
+git clone https://github.com/huggablehacker/pii-shield
 cd pii-shield
 ```
 
