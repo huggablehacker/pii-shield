@@ -1,0 +1,56 @@
+PATIENT INTAKE FORM - CONFIDENTIAL
+====================================
+
+Patient Information
+-------------------
+Name: Sarah Elizabeth Johnson
+Date of Birth: March 15, 1982
+SSN: 523-41-8897
+Phone: (704) 555-0193
+Email: sarah.johnson@gmail.com
+Address: 847 Maple Creek Drive, Mooresville, NC 28117
+
+Insurance
+---------
+Provider: Blue Cross Blue Shield
+Member ID: XMP998823411
+Group Number: 774-GRP-NC
+
+Emergency Contact
+-----------------
+Name: Robert Johnson (Spouse)
+Phone: (704) 555-0147
+Email: rjohnson82@outlook.com
+
+Referring Physician
+-------------------
+Dr. Michael T. Carver, MD
+License: NC-MED-29847
+Phone: (704) 555-0200
+Clinic: Lake Norman Family Practice
+
+Visit Notes - Dr. Carver
+-------------------------
+Patient Sarah Johnson, DOB 03/15/1982, presents with recurring migraines
+beginning approximately 6 weeks ago. Patient reports 3-4 episodes per week,
+lasting 4-6 hours each. No prior history of migraines noted in her chart.
+
+Patient currently employed at Bank of America (Charlotte branch) as a 
+senior analyst. She reports significant workplace stress as a potential trigger.
+
+Medications currently prescribed:
+  - Sumatriptan 50mg (as needed)
+  - Amitriptyline 10mg (nightly)
+
+Lab work ordered. Results to be sent to sarah.johnson@gmail.com and to
+Dr. Carver at mcarver@lakenormanfp.com.
+
+Billing Contact
+---------------
+Claims to be filed via EDI to:
+  Bank routing: 052000113
+  Account: 4481-2290-7713-9948
+
+Follow-up appointment scheduled for April 12, 2025 at 10:00 AM.
+
+IP of patient portal access logged: 192.168.14.201
